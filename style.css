@@ -1,0 +1,81 @@
+.contenedor{
+    margin: auto;
+    width: 98%;
+}
+
+header {
+    padding: 10px 0;
+    background-color: rgb(246, 17, 25);
+}
+
+header .contenedor {
+    display: flex;
+    justify-content: space-between;
+}
+
+.registrarse{
+    padding: 9px 15px;
+    background-color: rgb(91, 183, 0);
+}
+
+#registrate{
+  margin-right: 15px;
+}
+
+#entrar{
+    padding: 9px 15px;
+    background-color: rgb(201, 49, 49);
+}
+
+.primer-input{
+    padding: 0px;
+}
+
+.navegador{
+    font-size: 17px;
+    background-color: rgb(195, 0, 0);
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    margin-right: 16px;
+}
+
+.interrogacion{
+    width: 15px;
+    border-radius: 8px;
+}
+
+.estiloVerde{
+    font-size: 14px;
+    color: rgb(32, 212, 32);
+}
+
+.caja1{
+    margin-left: 60px;
+    font-size: 14px;
+    font-family:"Georgia, 'Times New Roman', Times, serif";
+    
+}
+
+.caja2{
+    margin-left: 180px;
+    font-size: 14px;
+    font-family:"Georgia, 'Times New Roman', Times, serif";
+}
+
+.caja3{
+    margin-left: 180px;
+    font-size: 14px;
+    font-family:"Georgia, 'Times New Roman', Times, serif";
+    margin-right: 31px;
+}
+
+body{
+    margin: -1px;
+}
+
+.columna{
+    display: flex;
+}
